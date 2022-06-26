@@ -6,7 +6,7 @@ import HeaderSocials from './HeaderSocials'
 
 function Header() {
   return (
-    <header>
+    <header id='home'>
       <div className='container header__container'>
           <h5>Hi I`m</h5>
           <h1>Ryan Mmbale</h1>
