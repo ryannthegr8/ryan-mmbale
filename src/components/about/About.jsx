@@ -38,7 +38,7 @@ const About = () => {
               </article>
               </div>
               <p>
-                lorem ipsum
+              The technology world is continuously evolving. So, as a frontend/Backend developer, I am working in a dynamic field where opportunities come up continuously. New tools and frameworks are continuously evolving, allowing me to achieve more with less effort. This also has challanged me to work toward being as flexible as in this line of work. 
 
               </p>
               <a href='#contact' className='btn btn-primary'>lets Talk</a>

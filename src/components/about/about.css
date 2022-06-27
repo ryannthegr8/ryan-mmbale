@@ -40,17 +40,17 @@
 }
 .about__icon {
     color: var(--color-primary);
-    font-size: 1.4rem;
-    margin-bottom: 1rem;
+    font-size: 1.orem;
+    margin-bottom: 0.5rem;
 }
 .about__card h5 {
-    font-size: 0.95rem;
+    font-size: 0.85rem;
 }
 .about__card small{
     font-size: 0.7rem;
     color: var(--color-light);
 }
 .about__content p {
-    margin: 2rem 0 2.6rem;
+    margin: 1rem 0 1rem;
     color: var(--color-light);
 }
